@@ -1,0 +1,35 @@
+_repo: Title-fight_72172
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gault, William Campbell
+    alias: Gault, William C.
+    birthdate: 1910
+    deathdate: 1995
+    gutenberg_agent_id: '35339'
+    url: http://www.gutenberg.org/2009/agents/35339
+    wikipedia: https://en.wikipedia.org/wiki/William_Campbell_Gault
+description: ''
+gutenberg_issued: '2023-11-19'
+identifiers:
+  gutenberg: '72172'
+language: en
+pgterms:marc905: 20231020062530gault
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Robots -- Fiction'
+- !lcsh 'Boxing stories'
+- !lcsh 'Androids -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Title fight
+url: http://www.gutenberg.org/ebooks/72172
