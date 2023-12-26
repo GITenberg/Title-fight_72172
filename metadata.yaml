@@ -1,5 +1,8 @@
 _repo: Title-fight_72172
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72172-h/images/cover.jpg
 creator:
   author:
     agent_name: Gault, William Campbell
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35339
     wikipedia: https://en.wikipedia.org/wiki/William_Campbell_Gault
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72172#Title-fight
 gutenberg_issued: '2023-11-19'
 identifiers:
   gutenberg: '72172'
